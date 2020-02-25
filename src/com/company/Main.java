@@ -7,6 +7,7 @@ public class Main {
 
         String name = "valo";
 
+        int x = 5;
 
         System.out.println(name);
     }
